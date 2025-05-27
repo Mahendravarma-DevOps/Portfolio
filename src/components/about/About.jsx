@@ -23,26 +23,28 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
 
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>200+ Clients Worldwide</small>
+              <small>10+ Clients Worldwide</small>
             </article>
 
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>80+ Completed Projects</small>
+              <small>15+ Completed Projects</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Accusantium neque veritatis temporibus dolor soluta cumque facere
-            dolorem distinctio a est?
+            I'm a passionate DevOps Engineer with 2+ years of hands-on experience in automating deployments, 
+            managing cloud infrastructure, and improving CI/CD workflows. I've successfully delivered 15+ projects, 
+            helping teams scale, secure, and streamline their systems. From containerization using Docker and Kubernetes 
+            to implementing robust monitoring with Prometheus and Grafana, 
+            I bring reliability and efficiency to every environment I work in.
           </p>
 
           <a href="#contact" className="btn btn-primary">
